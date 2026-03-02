@@ -1,8 +1,6 @@
-# Proyecto-bioquimica-analisis
-Análisis estadístico y visualización de datos para formulación de champú con extracto de Agave marmorata
-# Soporte Estadístico: Desarrollo de Champú de *Agave marmorata*
+# Soporte Estadístico: Estandarizacióm de Champú de *Agave marmorata*
 
-Este repositorio alberga la infraestructura de análisis de datos y validación estadística para el proyecto de tesis de Ingeniería Bioquímica: **"Desarrollo de una formulación de champú artesanal utilizando extracto de Maguey Pitzometl"**.
+Este repositorio alberga la infraestructura de análisis de datos y validación estadística para el proyecto de investigación de Ingeniería Bioquímica: **"ESTANDARIZACIÓN DE LA FORMULACIÓN DE CHAMPÚ CON EXTRACTO DE MAGUEY PITZOMETL (AGAVE MARMORATA) DE LA REGIÓN DE ZAPOTITLÁN SALINAS PUEBLA."**.
 
 ## 🛠️ Tecnologías y Metodología
 Para asegurar el rigor científico y la reproducibilidad de los resultados, se implementó un flujo de trabajo basado en ciencia de datos:
