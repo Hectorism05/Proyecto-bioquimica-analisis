@@ -1,4 +1,4 @@
-# Soporte Estadístico: Estandarizacióm de Champú de *Agave marmorata*
+# Estandarización de la formulación de champú con extracto de maguey pitzometl (*Agave marmorata*)
 
 Este repositorio alberga la infraestructura de análisis de datos y validación estadística para el proyecto de investigación de Ingeniería Bioquímica: **"ESTANDARIZACIÓN DE LA FORMULACIÓN DE CHAMPÚ CON EXTRACTO DE MAGUEY PITZOMETL (AGAVE MARMORATA) DE LA REGIÓN DE ZAPOTITLÁN SALINAS PUEBLA."**.
 
