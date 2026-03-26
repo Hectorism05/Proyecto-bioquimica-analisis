@@ -12,7 +12,7 @@ Para asegurar el rigor científico y la reproducibilidad de los resultados, se i
 
 ## 📂 Estructura del Proyecto
 - **/data**: Contiene los datos crudos del análisis de mercado (N=20) y los resultados de las pruebas fisicoquímicas por triplicado.
-- **/media**:Contiene el registro fotográfico de la fase experimental. Sirve como evidencia visual de la metodología descrita en el Capítulo 3 y los resultados físicos del Capítulo 4.
+- **/media**: Contiene el registro fotográfico de la fase experimental. Sirve como evidencia visual de la metodología descrita en el Capítulo 3 y los resultados físicos del Capítulo 4.
 - **/notebooks**: Scripts de Google Colab (.ipynb) que contienen la lógica de programación y procesamiento de datos.
 - **/results**: Exportaciones de las figuras (Boxplots, diagramas de barras y pasteles) utilizadas en el Capítulo 4.
 
